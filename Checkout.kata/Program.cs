@@ -1,4 +1,5 @@
 using Checkout.kata.Abstractions.contracts;
+using Checkout.kata.Middleware;
 using Checkout.kata.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -24,7 +25,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+app.UseMiddleware<ExceptionHandlingMiddleware>();
 app.MapControllers();
 
 app.Run();

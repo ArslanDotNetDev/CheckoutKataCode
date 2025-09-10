@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Checkout.kata.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69bc9931f26851824db366b17f5b27e913c0ea90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b2fb81ce7d4830b73cb13e469344b8cd134ff26")]
 [assembly: System.Reflection.AssemblyProductAttribute("Checkout.kata.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Checkout.kata.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
