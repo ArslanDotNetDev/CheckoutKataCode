@@ -9,5 +9,14 @@ namespace Checkout.kata.Services
 {
     public class CheckoutService : ICheckout
     {
+        public void Scan(string item)
+        {
+            // nothing for now
+        }
+
+        public int GetTotalPrice()
+        {
+            return 0; // minimal implementation
+        }
     }
 }
