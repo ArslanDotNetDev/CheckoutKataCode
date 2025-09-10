@@ -1,4 +1,5 @@
 using Checkout.kata.Abstractions.contracts;
+using Checkout.kata.Domain.DTOs;
 using Checkout.kata.Middleware;
 using Checkout.kata.Services;
 
@@ -7,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+builder.Services.Configure<PricingDTO>(builder.Configuration.GetSection("Pricing"));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
