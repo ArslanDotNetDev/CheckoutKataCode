@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Checkout.kata.props" />
+</Project>

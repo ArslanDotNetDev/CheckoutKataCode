@@ -1,0 +1,11 @@
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\bin\Debug\net8.0\Checkout.kata.Abstractions.deps.json
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\bin\Debug\net8.0\Checkout.kata.Abstractions.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\bin\Debug\net8.0\Checkout.kata.Abstractions.pdb
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\obj\Debug\net8.0\Checkout.kata.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\obj\Debug\net8.0\Checkout.kata.Abstractions.AssemblyInfoInputs.cache
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\obj\Debug\net8.0\Checkout.kata.Abstractions.AssemblyInfo.cs
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\obj\Debug\net8.0\Checkout.kata.Abstractions.csproj.CoreCompileInputs.cache
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\obj\Debug\net8.0\Checkout.kata.Abstractions.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\obj\Debug\net8.0\refint\Checkout.kata.Abstractions.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\obj\Debug\net8.0\Checkout.kata.Abstractions.pdb
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Abstractions\obj\Debug\net8.0\ref\Checkout.kata.Abstractions.dll

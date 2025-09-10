@@ -1,0 +1,17 @@
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\bin\Debug\net8.0\Checkout.kata.Services.deps.json
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\bin\Debug\net8.0\Checkout.kata.Services.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\bin\Debug\net8.0\Checkout.kata.Services.pdb
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\bin\Debug\net8.0\Checkout.kata.Abstractions.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\bin\Debug\net8.0\Checkout.kata.Domain.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\bin\Debug\net8.0\Checkout.kata.Abstractions.pdb
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\bin\Debug\net8.0\Checkout.kata.Domain.pdb
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\obj\Debug\net8.0\Checkout.kata.Services.csproj.AssemblyReference.cache
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\obj\Debug\net8.0\Checkout.kata.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\obj\Debug\net8.0\Checkout.kata.Services.AssemblyInfoInputs.cache
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\obj\Debug\net8.0\Checkout.kata.Services.AssemblyInfo.cs
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\obj\Debug\net8.0\Checkout.kata.Services.csproj.CoreCompileInputs.cache
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\obj\Debug\net8.0\Checkout.D969AC3B.Up2Date
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\obj\Debug\net8.0\Checkout.kata.Services.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\obj\Debug\net8.0\refint\Checkout.kata.Services.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\obj\Debug\net8.0\Checkout.kata.Services.pdb
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Services\obj\Debug\net8.0\ref\Checkout.kata.Services.dll

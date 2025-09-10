@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Checkout.kata.Abstractions\Checkout.kata.Abstractions.csproj" />
+    <ProjectReference Include="..\Checkout.kata.Domain\Checkout.kata.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

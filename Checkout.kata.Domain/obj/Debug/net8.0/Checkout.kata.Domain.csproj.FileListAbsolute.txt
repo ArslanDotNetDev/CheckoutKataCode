@@ -1,0 +1,11 @@
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\bin\Debug\net8.0\Checkout.kata.Domain.deps.json
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\bin\Debug\net8.0\Checkout.kata.Domain.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\bin\Debug\net8.0\Checkout.kata.Domain.pdb
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\obj\Debug\net8.0\Checkout.kata.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\obj\Debug\net8.0\Checkout.kata.Domain.AssemblyInfoInputs.cache
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\obj\Debug\net8.0\Checkout.kata.Domain.AssemblyInfo.cs
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\obj\Debug\net8.0\Checkout.kata.Domain.csproj.CoreCompileInputs.cache
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\obj\Debug\net8.0\Checkout.kata.Domain.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\obj\Debug\net8.0\refint\Checkout.kata.Domain.dll
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\obj\Debug\net8.0\Checkout.kata.Domain.pdb
+D:\BrightHr_Test\Checkout.kata\Checkout.kata.Domain\obj\Debug\net8.0\ref\Checkout.kata.Domain.dll

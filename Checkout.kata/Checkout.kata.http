@@ -1,0 +1,6 @@
+@Checkout.kata_HostAddress = http://localhost:5095
+
+GET {{Checkout.kata_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
