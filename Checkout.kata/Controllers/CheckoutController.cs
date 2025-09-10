@@ -1,13 +1,16 @@
+using Checkout.kata.Abstractions.contracts;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Checkout.kata.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class CheckoutController : ControllerBase
     {
-        public CheckoutController()
+        private readonly ICheckout _checkout;
+        public CheckoutController(ICheckout checkout)
         {
+            _checkout = checkout;
         }
 
         

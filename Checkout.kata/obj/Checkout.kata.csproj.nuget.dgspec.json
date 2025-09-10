@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata\\Checkout.kata.csproj": {}
+    "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Checkout.kata.csproj": {}
   },
   "projects": {
-    "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj": {
+    "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj",
+        "projectUniqueName": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj",
         "projectName": "Checkout.kata.Abstractions",
-        "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj",
+        "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj",
         "packagesPath": "C:\\Users\\Muhammad Arslan\\.nuget\\packages\\",
-        "outputPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\obj\\",
+        "outputPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
+    "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj",
+        "projectUniqueName": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj",
         "projectName": "Checkout.kata.Domain",
-        "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj",
+        "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj",
         "packagesPath": "C:\\Users\\Muhammad Arslan\\.nuget\\packages\\",
-        "outputPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\obj\\",
+        "outputPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\Checkout.kata.Services.csproj": {
+    "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\Checkout.kata.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\Checkout.kata.Services.csproj",
+        "projectUniqueName": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\Checkout.kata.Services.csproj",
         "projectName": "Checkout.kata.Services",
-        "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\Checkout.kata.Services.csproj",
+        "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\Checkout.kata.Services.csproj",
         "packagesPath": "C:\\Users\\Muhammad Arslan\\.nuget\\packages\\",
-        "outputPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\obj\\",
+        "outputPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -168,11 +168,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj": {
-                "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj"
+              "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj": {
+                "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj"
               },
-              "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
-                "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj"
+              "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
+                "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata\\Checkout.kata.csproj": {
+    "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Checkout.kata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata\\Checkout.kata.csproj",
+        "projectUniqueName": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Checkout.kata.csproj",
         "projectName": "Checkout.kata",
-        "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata\\Checkout.kata.csproj",
+        "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Checkout.kata.csproj",
         "packagesPath": "C:\\Users\\Muhammad Arslan\\.nuget\\packages\\",
-        "outputPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata\\obj\\",
+        "outputPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -242,14 +242,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj": {
-                "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj"
+              "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj": {
+                "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj"
               },
-              "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
-                "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj"
+              "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
+                "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj"
               },
-              "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\Checkout.kata.Services.csproj": {
-                "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\Checkout.kata.Services.csproj"
+              "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\Checkout.kata.Services.csproj": {
+                "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\Checkout.kata.Services.csproj"
               }
             }
           }

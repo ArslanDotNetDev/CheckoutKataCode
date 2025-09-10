@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XVq3PnwGOAE=",
+  "dgSpecHash": "WnFfz8lrfW0=",
   "success": true,
-  "projectFilePath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Tests\\Checkout.kata.Tests.csproj",
+  "projectFilePath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\Checkout.kata.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammad Arslan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Muhammad Arslan\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

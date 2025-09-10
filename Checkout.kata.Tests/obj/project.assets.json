@@ -5503,11 +5503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Tests\\Checkout.kata.Tests.csproj",
+      "projectUniqueName": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\Checkout.kata.Tests.csproj",
       "projectName": "Checkout.kata.Tests",
-      "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Tests\\Checkout.kata.Tests.csproj",
+      "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\Checkout.kata.Tests.csproj",
       "packagesPath": "C:\\Users\\Muhammad Arslan\\.nuget\\packages\\",
-      "outputPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Tests\\obj\\",
+      "outputPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5530,14 +5530,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj": {
-              "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj"
+            "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj": {
+              "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj"
             },
-            "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
-              "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj"
+            "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
+              "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj"
             },
-            "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\Checkout.kata.Services.csproj": {
-              "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\Checkout.kata.Services.csproj"
+            "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\Checkout.kata.Services.csproj": {
+              "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\Checkout.kata.Services.csproj"
             }
           }
         }

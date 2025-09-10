@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\Checkout.kata.Services.csproj",
+      "projectUniqueName": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\Checkout.kata.Services.csproj",
       "projectName": "Checkout.kata.Services",
-      "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\Checkout.kata.Services.csproj",
+      "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\Checkout.kata.Services.csproj",
       "packagesPath": "C:\\Users\\Muhammad Arslan\\.nuget\\packages\\",
-      "outputPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Services\\obj\\",
+      "outputPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -77,11 +77,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj": {
-              "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj"
+            "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj": {
+              "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj"
             },
-            "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
-              "projectPath": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj"
+            "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
+              "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj"
             }
           }
         }
