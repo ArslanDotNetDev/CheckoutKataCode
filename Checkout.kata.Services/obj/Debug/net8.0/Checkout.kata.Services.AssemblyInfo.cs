@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Checkout.kata.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69bc9931f26851824db366b17f5b27e913c0ea90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e8579db0c145fffa94fd50c210d51964735fbb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Checkout.kata.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Checkout.kata.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

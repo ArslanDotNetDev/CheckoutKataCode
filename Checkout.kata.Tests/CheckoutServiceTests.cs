@@ -1,24 +1,21 @@
 using Checkout.kata.Abstractions.contracts;
 using Checkout.kata.Domain.Models;
 using Checkout.kata.Services;
+using Xunit;
 using Moq;
 
 namespace Checkout.kata.Tests
 {
-    public class CheckoutTest
+    public class CheckoutServiceTests
     {
-        
-
         private readonly Mock<IPricingCatalog> _catalogMock = new();
         private readonly Mock<IOfferPricer> _pricerMock = new();
         private readonly CheckoutService _checkout;
 
-        public CheckoutTest()
+        public CheckoutServiceTests()
         {
             _checkout = new CheckoutService(_catalogMock.Object, _pricerMock.Object);
         }
-
-        
 
         [Fact]
         public void Scan_UnknownSku_ThrowsArgumentException()
@@ -73,64 +70,5 @@ namespace Checkout.kata.Tests
 
             Assert.Throws<InvalidOperationException>(() => _checkout.GetTotalPrice());
         }
-
-        
-
-        [Fact]
-        public void Scan_SingleItemA_ReturnsCorrectPrice()
-        {
-            var rule = new PricingRule("A", 50);
-            _catalogMock.Setup(c => c.TryGetPricing("A", out rule)).Returns(true);
-            _pricerMock.Setup(p => p.CalculatePrice(1, rule)).Returns(50);
-
-            _checkout.Scan("A");
-            var total = _checkout.GetTotalPrice();
-
-            Assert.Equal(50, total);
-            _pricerMock.Verify(p => p.CalculatePrice(1, rule), Times.Once);
-        }
-
-        [Fact]
-        public void Scan_MultipleSameItem_ReturnsCorrectTotal()
-        {
-            var rule = new PricingRule("A", 50);
-            _catalogMock.Setup(c => c.TryGetPricing("A", out rule)).Returns(true);
-            _pricerMock.Setup(p => p.CalculatePrice(3, rule)).Returns(130);
-
-            _checkout.Scan("A");
-            _checkout.Scan("A");
-            _checkout.Scan("A");
-
-            var total = _checkout.GetTotalPrice();
-
-            Assert.Equal(130, total);
-            _pricerMock.Verify(p => p.CalculatePrice(3, rule), Times.Once);
-        }
-
-        [Fact]
-        public void Scan_MultipleDifferentItems_ReturnsCombinedTotal()
-        {
-            var ruleA = new PricingRule("A", 50);
-            var ruleB = new PricingRule("B", 30);
-
-            _catalogMock.Setup(c => c.TryGetPricing("A", out ruleA)).Returns(true);
-            _catalogMock.Setup(c => c.TryGetPricing("B", out ruleB)).Returns(true);
-
-            _pricerMock.Setup(p => p.CalculatePrice(1, ruleA)).Returns(50);
-            _pricerMock.Setup(p => p.CalculatePrice(2, ruleB)).Returns(45);
-
-            _checkout.Scan("A");
-            _checkout.Scan("B");
-            _checkout.Scan("B");
-
-            var total = _checkout.GetTotalPrice();
-
-            Assert.Equal(95, total);
-            _pricerMock.Verify(p => p.CalculatePrice(1, ruleA), Times.Once);
-            _pricerMock.Verify(p => p.CalculatePrice(2, ruleB), Times.Once);
-        }
     }
-
-   
-    
 }

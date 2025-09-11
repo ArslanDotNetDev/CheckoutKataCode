@@ -5,6 +5,9 @@
       "Checkout.kata.Abstractions/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Checkout.kata.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Checkout.kata.Abstractions.dll": {}
         },

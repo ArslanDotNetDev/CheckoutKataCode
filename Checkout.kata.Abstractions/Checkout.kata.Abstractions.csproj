@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Checkout.kata.Domain\Checkout.kata.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

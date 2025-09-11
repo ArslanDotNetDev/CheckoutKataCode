@@ -1,18 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BrightHr_Test\\Checkout.kata\\",
+  "WorkspaceRootPath": "D:\\BrightHr_Test\\CheckoutKataCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|d:\\brighthr_test\\checkout.kata\\checkout.kata.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|solutionrelative:checkout.kata.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.tests\\checkouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|solutionrelative:checkout.kata.tests\\checkouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|d:\\brighthr_test\\checkout.kata\\checkout.kata\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33D294CA-D924-455B-BC6A-88E42F7D34F6}|Checkout.kata.Services\\Checkout.kata.Services.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D294CA-D924-455B-BC6A-88E42F7D34F6}|Checkout.kata.Services\\Checkout.kata.Services.csproj|solutionrelative:checkout.kata.services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|solutionrelative:checkout.kata\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|d:\\brighthr_test\\checkout.kata\\checkout.kata\\checkout.kata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|solutionrelative:checkout.kata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata\\infrastructure\\cachepricingcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|solutionrelative:checkout.kata\\infrastructure\\cachepricingcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F73BC8A-F785-47A1-82C2-C91B508D1C42}|Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.abstractions\\contracts\\ipricingcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F73BC8A-F785-47A1-82C2-C91B508D1C42}|Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj|solutionrelative:checkout.kata.abstractions\\contracts\\ipricingcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F73BC8A-F785-47A1-82C2-C91B508D1C42}|Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.abstractions\\contracts\\icheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F73BC8A-F785-47A1-82C2-C91B508D1C42}|Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj|solutionrelative:checkout.kata.abstractions\\contracts\\icheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.tests\\checkoutservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|solutionrelative:checkout.kata.tests\\checkoutservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.tests\\checkout.kata.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|solutionrelative:checkout.kata.tests\\checkout.kata.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.tests\\offerpricertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|solutionrelative:checkout.kata.tests\\offerpricertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata\\checkout.kata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|solutionrelative:checkout.kata\\checkout.kata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.domain\\models\\quantitypriceoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|solutionrelative:checkout.kata.domain\\models\\quantitypriceoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D294CA-D924-455B-BC6A-88E42F7D34F6}|Checkout.kata.Services\\Checkout.kata.Services.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.services\\offerpricer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D294CA-D924-455B-BC6A-88E42F7D34F6}|Checkout.kata.Services\\Checkout.kata.Services.csproj|solutionrelative:checkout.kata.services\\offerpricer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F73BC8A-F785-47A1-82C2-C91B508D1C42}|Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.abstractions\\contracts\\iofferpricer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F73BC8A-F785-47A1-82C2-C91B508D1C42}|Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj|solutionrelative:checkout.kata.abstractions\\contracts\\iofferpricer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.domain\\models\\pricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|solutionrelative:checkout.kata.domain\\models\\pricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.tests\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37754CD6-1840-4BBD-8E4D-9F8FFB78AD35}|Checkout.kata.Tests\\Checkout.kata.Tests.csproj|solutionrelative:checkout.kata.tests\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|solutionrelative:checkout.kata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.domain\\dtos\\pricingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|solutionrelative:checkout.kata.domain\\dtos\\pricingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.domain\\dtos\\pricingruledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|solutionrelative:checkout.kata.domain\\dtos\\pricingruledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.domain\\dtos\\quantitypriceofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|solutionrelative:checkout.kata.domain\\dtos\\quantitypriceofferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.domain\\checkout.kata.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A9BFCB3-7F5F-405E-B3B9-FC9715054CF3}|Checkout.kata.Domain\\Checkout.kata.Domain.csproj|solutionrelative:checkout.kata.domain\\checkout.kata.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4DA768-CADC-4AE2-B686-3B78472C862A}|Checkout.kata\\Checkout.kata.csproj|solutionrelative:checkout.kata\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F73BC8A-F785-47A1-82C2-C91B508D1C42}|Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj|d:\\brighthr_test\\checkoutkatacode\\checkout.kata.abstractions\\checkout.kata.abstractions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F73BC8A-F785-47A1-82C2-C91B508D1C42}|Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj|solutionrelative:checkout.kata.abstractions\\checkout.kata.abstractions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +107,301 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Checkout.kata.Tests\\UnitTest1.cs",
-              "ToolTip": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "Checkout.kata.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Title": "CheckoutTest.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\CheckoutTest.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Tests\\CheckoutTest.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\CheckoutTest.cs",
+              "RelativeToolTip": "Checkout.kata.Tests\\CheckoutTest.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwG4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T01:11:41.903Z",
+              "WhenOpened": "2025-09-10T15:36:44.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CheckoutService.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\CheckoutService.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Services\\CheckoutService.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\CheckoutService.cs",
+              "RelativeToolTip": "Checkout.kata.Services\\CheckoutService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:58:50.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Checkout.kata.Tests.csproj",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\Checkout.kata.Tests.csproj",
+              "RelativeDocumentMoniker": "Checkout.kata.Tests\\Checkout.kata.Tests.csproj",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\Checkout.kata.Tests.csproj",
+              "RelativeToolTip": "Checkout.kata.Tests\\Checkout.kata.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T17:20:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPricingCatalog.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\contracts\\IPricingCatalog.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Abstractions\\contracts\\IPricingCatalog.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\contracts\\IPricingCatalog.cs",
+              "RelativeToolTip": "Checkout.kata.Abstractions\\contracts\\IPricingCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:44:13.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CheckoutController.cs",
-              "DocumentMoniker": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata\\Controllers\\CheckoutController.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Controllers\\CheckoutController.cs",
               "RelativeDocumentMoniker": "Checkout.kata\\Controllers\\CheckoutController.cs",
-              "ToolTip": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata\\Controllers\\CheckoutController.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Controllers\\CheckoutController.cs",
               "RelativeToolTip": "Checkout.kata\\Controllers\\CheckoutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T01:00:38.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "ICheckout.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\contracts\\ICheckout.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Abstractions\\contracts\\ICheckout.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\contracts\\ICheckout.cs",
+              "RelativeToolTip": "Checkout.kata.Abstractions\\contracts\\ICheckout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:42:55.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Program.cs",
+              "RelativeDocumentMoniker": "Checkout.kata\\Program.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Program.cs",
+              "RelativeToolTip": "Checkout.kata\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:08:01.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CachePricingCatalog.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Infrastructure\\CachePricingCatalog.cs",
+              "RelativeDocumentMoniker": "Checkout.kata\\Infrastructure\\CachePricingCatalog.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Infrastructure\\CachePricingCatalog.cs",
+              "RelativeToolTip": "Checkout.kata\\Infrastructure\\CachePricingCatalog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:17:30.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OfferPricerTests.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\OfferPricerTests.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Tests\\OfferPricerTests.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\OfferPricerTests.cs",
+              "RelativeToolTip": "Checkout.kata.Tests\\OfferPricerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:05:17.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckoutServiceTests.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\CheckoutServiceTests.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Tests\\CheckoutServiceTests.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\CheckoutServiceTests.cs",
+              "RelativeToolTip": "Checkout.kata.Tests\\CheckoutServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:25:57.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuantityPriceOffer.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Models\\QuantityPriceOffer.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Domain\\Models\\QuantityPriceOffer.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Models\\QuantityPriceOffer.cs",
+              "RelativeToolTip": "Checkout.kata.Domain\\Models\\QuantityPriceOffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:47:25.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OfferPricer.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\OfferPricer.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Services\\OfferPricer.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Services\\OfferPricer.cs",
+              "RelativeToolTip": "Checkout.kata.Services\\OfferPricer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:58:08.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Checkout.kata.csproj",
-              "DocumentMoniker": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata\\Checkout.kata.csproj",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Checkout.kata.csproj",
               "RelativeDocumentMoniker": "Checkout.kata\\Checkout.kata.csproj",
-              "ToolTip": "D:\\BrightHr_Test\\Checkout.kata\\Checkout.kata\\Checkout.kata.csproj",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Checkout.kata.csproj",
               "RelativeToolTip": "Checkout.kata\\Checkout.kata.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-10T01:03:17.791Z"
+              "WhenOpened": "2025-09-10T01:03:17.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PricingRuleDTO.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\DTOs\\PricingRuleDTO.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Domain\\DTOs\\PricingRuleDTO.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\DTOs\\PricingRuleDTO.cs",
+              "RelativeToolTip": "Checkout.kata.Domain\\DTOs\\PricingRuleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:54:11.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOfferPricer.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\contracts\\IOfferPricer.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Abstractions\\contracts\\IOfferPricer.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\contracts\\IOfferPricer.cs",
+              "RelativeToolTip": "Checkout.kata.Abstractions\\contracts\\IOfferPricer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:45:07.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PricingRule.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Models\\PricingRule.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Domain\\Models\\PricingRule.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Models\\PricingRule.cs",
+              "RelativeToolTip": "Checkout.kata.Domain\\Models\\PricingRule.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:50:10.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\appsettings.json",
+              "RelativeDocumentMoniker": "Checkout.kata\\appsettings.json",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\appsettings.json",
+              "RelativeToolTip": "Checkout.kata\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T14:24:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PricingDTO.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\DTOs\\PricingDTO.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Domain\\DTOs\\PricingDTO.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\DTOs\\PricingDTO.cs",
+              "RelativeToolTip": "Checkout.kata.Domain\\DTOs\\PricingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:53:12.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\TestData.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Tests\\TestData.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Tests\\TestData.cs",
+              "RelativeToolTip": "Checkout.kata.Tests\\TestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:12:43.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuantityPriceOfferDTO.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\DTOs\\QuantityPriceOfferDTO.cs",
+              "RelativeDocumentMoniker": "Checkout.kata.Domain\\DTOs\\QuantityPriceOfferDTO.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\DTOs\\QuantityPriceOfferDTO.cs",
+              "RelativeToolTip": "Checkout.kata.Domain\\DTOs\\QuantityPriceOfferDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:55:12.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Checkout.kata\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Checkout.kata\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:26:50.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Checkout.kata.Domain.csproj",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj",
+              "RelativeDocumentMoniker": "Checkout.kata.Domain\\Checkout.kata.Domain.csproj",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj",
+              "RelativeToolTip": "Checkout.kata.Domain\\Checkout.kata.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T13:46:49.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Checkout.kata.Abstractions.csproj",
+              "DocumentMoniker": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj",
+              "RelativeDocumentMoniker": "Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj",
+              "ToolTip": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj",
+              "RelativeToolTip": "Checkout.kata.Abstractions\\Checkout.kata.Abstractions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T13:41:34.71Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -8,7 +8,7 @@ namespace Checkout.kata.Abstractions.contracts
 {
     public interface ICheckout
     {
-        //void Scan(string item);
-        //int GetTotalPrice();
+        void Scan(string item);
+        int GetTotalPrice();
     }
 }

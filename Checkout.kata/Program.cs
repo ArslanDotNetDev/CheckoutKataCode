@@ -1,5 +1,6 @@
 using Checkout.kata.Abstractions.contracts;
 using Checkout.kata.Domain.DTOs;
+using Checkout.kata.Infrastructure;
 using Checkout.kata.Middleware;
 using Checkout.kata.Services;
 
@@ -14,6 +15,10 @@ builder.Services.Configure<PricingDTO>(builder.Configuration.GetSection("Pricing
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddMemoryCache();
+
+builder.Services.AddScoped<IPricingCatalog, CachePricingCatalog>();
+builder.Services.AddSingleton<IOfferPricer, OfferPricer>();
 builder.Services.AddScoped<ICheckout, CheckoutService>();
 
 var app = builder.Build();

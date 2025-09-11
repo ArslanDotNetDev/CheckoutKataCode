@@ -16,6 +16,9 @@
         }
       },
       "Checkout.kata.Abstractions/1.0.0": {
+        "dependencies": {
+          "Checkout.kata.Domain": "1.0.0"
+        },
         "runtime": {
           "Checkout.kata.Abstractions.dll": {
             "assemblyVersion": "1.0.0.0",

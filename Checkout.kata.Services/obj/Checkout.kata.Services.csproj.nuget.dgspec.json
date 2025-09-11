@@ -33,7 +33,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj": {
+                "projectPath": "D:\\BrightHr_Test\\CheckoutKataCode\\Checkout.kata.Domain\\Checkout.kata.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
